@@ -1,0 +1,12 @@
+[submodule "ECGroove-Firmware"]
+	path = ECGroove-Firmware
+	url = https://github.com/DhimanSarkar-NCSM-Exhibits/ECGroove-Firmware.git
+[submodule "ECGroove-Documentation"]
+	path = ECGroove-Documentation
+	url = https://github.com/DhimanSarkar-NCSM-Exhibits/ECGroove-Documentation.git
+[submodule "ECGroove-Hardware"]
+	path = ECGroove-Hardware
+	url = https://github.com/DhimanSarkar-NCSM-Exhibits/ECGroove-Hardware.git
+[submodule "ECGroove-Host"]
+	path = ECGroove-Host
+	url = https://github.com/DhimanSarkar-NCSM-Exhibits/ECGroove-Host.git
